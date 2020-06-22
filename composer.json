@@ -1,0 +1,10 @@
+{
+    "name": "invoice-llc/payment-symfony",
+    "description": "Invoice Payment Module",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "invoice\\payment\\": "src/"
+        }
+    }
+}
